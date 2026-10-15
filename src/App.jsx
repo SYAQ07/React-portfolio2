@@ -28,7 +28,7 @@ function App() {
             Saya mempunyai ketertarikan dalam bidang Programming dan Designer,
             terutama pada pembuatan Website dan Desain seperti Poster, Pamflet
             serta Banner, ketertarikan pada bidang ini sudah berlangsung lebih
-            dari 4 Tahun untuk semua Bidang.
+            dari 2 Tahun untuk semua Bidang.
           </p>
 
           <div className="flex items-center gap-2 sm:gap-4">
@@ -101,7 +101,7 @@ function App() {
 
               <div>
                 <h2 className="mb-1 text-4xl">
-                  4<span className="text-violet-500">+</span>
+                  1<span className="text-violet-500">+</span>
                 </h2>
                 <p>Tahun Pengalaman</p>
               </div>
@@ -174,7 +174,7 @@ function App() {
           data-aos-delay="300"
           data-aos-once="true"
         >
-          Berikut ini beberapa proyek yang pernah saya buat.
+          Berikut ini beberapa proyek yang tidak pernah saya buat.
         </p>
 
         <div className="proyek-box mt-14 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
