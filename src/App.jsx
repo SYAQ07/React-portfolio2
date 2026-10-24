@@ -349,7 +349,7 @@ function App() {
   download="CV-Irsyad-Syafiq.jpg"
   className="inline-flex items-center gap-2 rounded-xl bg-violet-700 p-4 transition hover:bg-violet-600"
 >
-  Download Gambar
+  Download CV
   <i className="ri-download-line ri-lg"></i>
 </a>
 
