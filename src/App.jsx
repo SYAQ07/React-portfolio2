@@ -343,14 +343,16 @@ function App() {
           Unduh CV saya untuk mengetahui lebih lanjut.
         </p>
 
-        <a
-          href="/cv.pdf"
-          download
-          className="inline-flex items-center gap-2 rounded-xl bg-violet-700 p-4 transition hover:bg-violet-600"
-        >
-          Download CV
-          <i className="ri-download-line ri-lg"></i>
-        </a>
+
+<a
+  href="/cv.png"
+  download="CV-Irsyad-Syafiq.jpg"
+  className="inline-flex items-center gap-2 rounded-xl bg-violet-700 p-4 transition hover:bg-violet-600"
+>
+  Download Gambar
+  <i className="ri-download-line ri-lg"></i>
+</a>
+
       </section>
     </>
   );
