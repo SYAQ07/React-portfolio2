@@ -69,7 +69,7 @@ function App() {
         <img
           src={DataImage.HeroImage}
           alt="Visual utama portofolio Irsyad Syafiq"
-          className="w-full animate__animated animate__fadeInUp animate__delay-4s md:ml-auto md:w-11/12"
+          className="w-full animate__animated animate__fadeInUp animate__delay-4s md:ml-auto md:w-11/12 rounded-4xl"
         />
       </div>
 
